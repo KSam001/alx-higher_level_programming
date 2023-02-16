@@ -126,5 +126,3 @@ Prototypes for functions written in this project:
 * **14. CPython #0: Python lists**
   * [100-print_python_list_info.c](./100-print_python_list_info.c): C function that
   prints basic information about Python lists.
-
-
